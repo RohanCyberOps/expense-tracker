@@ -1,0 +1,62 @@
+:root{
+    
+    font-size: 62.5%;
+}
+
+*{
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+h1{
+    font-size: 5rem;
+    text-align: center;
+}
+h5{
+    font-size: 2rem;
+    text-align: center;
+}
+
+.container{
+    margin: 20px 330px;
+    border: 2px black;
+   
+    width: 90vmin;
+   
+    padding: 20px;
+    border-radius: 50px;
+}
+#name{
+    font-size: 2rem
+}
+
+.name{
+    width: 85%;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+    padding: 0.8rem;
+}
+
+#date{
+    font-size: 2rem
+}
+
+.date{
+    width: 40%;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+    padding: 0.8rem;
+}
+
+.amount{
+    padding: 0.8rem;
+    width: 33%;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
+
+.table {
+    margin-top: 2rem;
+}
