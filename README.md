@@ -5,6 +5,8 @@
 
 A sleek and intuitive **Expense Tracker** that helps you stay on top of your personal finances. Easily add, manage, and track your expenses with just a few clicks! 🖱️
 
+![Todo App Screenshot](todoapp.png)
+
 ## 🌟 **Features**
 - ✍️ Add, edit, and remove expenses seamlessly
 - 💸 Track total and categorized expenses
